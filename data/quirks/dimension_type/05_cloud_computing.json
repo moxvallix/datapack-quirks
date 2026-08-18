@@ -1,0 +1,17 @@
+{
+  "attributes": {
+    "minecraft:visual/cloud_height": 1
+  },
+  "timelines": ["quirks:05_cloud_computing/factor1", "quirks:05_cloud_computing/factor2"],
+  "has_skylight": false,
+  "has_ceiling": false,
+  "coordinate_scale": 1,
+  "ambient_light": 0,
+  "logical_height": 0,
+  "min_y": 0,
+  "height": 16,
+  "monster_spawn_light_level": 0,
+  "monster_spawn_block_light_limit": 0,
+  "infiniburn": "#minecraft:infiniburn_overworld",
+  "has_ender_dragon_fight": false
+}

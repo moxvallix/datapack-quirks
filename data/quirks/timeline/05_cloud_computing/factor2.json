@@ -1,0 +1,19 @@
+{
+  "clock": "quirks:05_cloud_computing/factor2",
+  "tracks": {
+    "minecraft:visual/cloud_height": {
+      "ease": "linear",
+      "modifier": "multiply",
+      "keyframes": [
+        {
+          "ticks": 0,
+          "value": 0
+        },
+        {
+          "ticks": 2147483647,
+          "value": 2147483647
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Datapack Quirks by Moxvallix",
+    "min_format": [
+      107,
+      1
+    ],
+    "max_format": 107
+  }
+}

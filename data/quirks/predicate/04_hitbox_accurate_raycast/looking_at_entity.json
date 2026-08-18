@@ -1,0 +1,12 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "minecraft:type_specific/player": {
+      "looking_at": {
+        "minecraft:entity_type": "minecraft:interaction",
+        "minecraft:nbt": "{UUID:[I; 219152672, 2144095602, -1692257129, 19589699]}"
+      }
+    }
+  }
+}

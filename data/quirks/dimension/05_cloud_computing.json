@@ -1,0 +1,10 @@
+{
+  "type": "quirks:05_cloud_computing",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "minecraft:the_void",
+      "layers": []
+    }
+  }
+}
