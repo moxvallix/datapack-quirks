@@ -2,6 +2,8 @@
 
 This datapack is a companion to the Datapack Quirks panel presented at [Smithed Summit 2026](https://smithed.net/summit) by Moxvallix.
 
+See the full recording of the panel [here on YouTube](https://www.youtube.com/live/gfej0u2KV7A).
+
 It is made for Minecraft 26.2.
 
 This pack collects the main quirks presented in the panel, and aims to show off how they work to anyone curious.
